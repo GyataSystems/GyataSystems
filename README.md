@@ -46,4 +46,4 @@ Contact Information<a name="contact-information"></a>
 
 For inquiries, collaboration, or support, reach out to us:
 
-*   **Email:** gyatasys@gmail.com
+*   **Email:** gyatasystems@gmail.com
